@@ -1,1 +1,9 @@
 This folder is for github.com
+1. The primary operation flow
+$ git init
+$ git add file
+$ git commit -m 'your message'
+$ git remote add orgin git@github.com:username@*.git
+$ git push orgin master
+
+
